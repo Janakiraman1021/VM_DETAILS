@@ -24,7 +24,7 @@ Clone this repository to your local machine.
 Install the required dependencies.
 Execute the script using Python:
 
-
+```bash```
 **python gesture_controller.py**
 
 
