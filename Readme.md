@@ -19,8 +19,7 @@ You can install these dependencies using the following command:
 pip install opencv-python mediapipe pyautogui pycaw screen-brightness-control
 
 
-
--**How to Run**
+# How to Run
 Clone this repository to your local machine.
 Install the required dependencies.
 Execute the script using Python:
@@ -29,13 +28,13 @@ Execute the script using Python:
 **python gesture_controller.py**
 
 
-**Usage**
+# Usage
 The script captures video feed from the webcam, detects hand landmarks, and recognizes gestures based on hand positions.
 Different gestures trigger various actions, such as moving the mouse, left/right clicking, double-clicking, and system controls.
 Press Enter to exit the application.
 
 
-**Customization**
+# Customization
 You can customize the script by adjusting the gesture encodings, modifying the actions in the Controller class, or extending the functionality based on your specific needs.
 
 # License
